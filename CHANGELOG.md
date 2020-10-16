@@ -119,24 +119,27 @@
 
 ## [4.1.0] - 2014-05-21
 ###   
-- <p>Added shopID</p>  
+- Added shopID  
 
 ## [4.0.4] - 2014-02-14
 ###   
-- Correct payment fee paramater for Klarna</p>  
+- Correct payment fee paramater for Klarna  
 
 ## [4.0.3] - 2014-02-05
 ###   
-- Prefix for OverBoeking</p>  
+- Prefix for OverBoeking  
 
 ## [4.0.2] - 2014-01-21
 ###   
-- Json error</p>  
+- Json error  
 
 ## [4.0.1] - 2014-01-16
 ###   
-- Syntax error</p>  
+- Syntax error  
 
 ## [4.0.0] - 2013-10-31
 ###   
-- Klarna Factuur <br/>Add: Klarna Account<br />Add: CreditCard</p>  
+- Klarna Factuur 
+### Added  
+- Klarna Account
+- Add: CreditCard  
