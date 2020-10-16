@@ -63,7 +63,6 @@
 - Gebruiker aanroepen returnUrl terugzetten status  
 
 ## [4.8.0] - 2017-08-18
-###   
 - Afterpay  
 
 ## [4.7.2] - 2017-04-19
@@ -110,7 +109,6 @@
 - Payment Fee Tax Fix  
 
 ## [4.1.5] - 2015-01-05
-###   
 - Payment fee CC  
 
 ## [4.1.3] - 2014-11-13
@@ -118,28 +116,26 @@
 - -7 error  
 
 ## [4.1.0] - 2014-05-21
-###   
 - Added shopID  
 
 ## [4.0.4] - 2014-02-14
-###   
+### Fixed  
 - Correct payment fee paramater for Klarna  
 
 ## [4.0.3] - 2014-02-05
-###   
+### Added  
 - Prefix for OverBoeking  
 
 ## [4.0.2] - 2014-01-21
-###   
+### Fixed  
 - Json error  
 
 ## [4.0.1] - 2014-01-16
-###   
+### Fixed  
 - Syntax error  
 
 ## [4.0.0] - 2013-10-31
-###   
-- Klarna Factuur 
+- Klarna Factuur
 ### Added  
 - Klarna Account
-- Add: CreditCard  
+- CreditCard  
